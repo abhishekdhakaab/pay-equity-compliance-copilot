@@ -14,7 +14,7 @@ from pyspark.sql import functions as F
 # === Connect to OpenRouter ===
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",  # ⬅️ replace this with your key
+    api_key="<KEY>",  # ⬅️ replace this with your key
 )
 
 
