@@ -165,22 +165,6 @@ The agent refuses any query containing patterns like `ssn`, `email`, `who is`, o
 
 ---
 
-## 📸 Screenshots (Optional)
-
-| Step | Example |
-|------|----------|
-| Unity Catalog tables | ![tables](screenshots/catalog_tables.png) |
-| Masked analyst view | ![view](screenshots/view_masking.png) |
-| Agent chat output | ![agent](screenshots/agent_output.png) |
-
----
-
-## 🧾 Résumé-Ready Summary
-
-> Built a governed GenAI **Pay-Equity Compliance Copilot** on Databricks using **OpenRouter LLMs**. Implemented a **ReAct tool loop** that plans, calls **view-only analysis tools**, and summarizes **pay-equity insights** without PII exposure. Integrated masking logic, fairness metrics, and governance mapping — all runnable on **Databricks Free tier**.
-
----
-
 ## ⚙️ Local Development (Optional)
 
 You can test outside Databricks with small CSVs:
